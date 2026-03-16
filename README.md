@@ -237,7 +237,7 @@ This will create a **vectorstore/** folder containing the FAISS index.
 Run the Streamlit app:
 
 ```bash
-streamlit run rag_app.py
+streamlit run rag_app_resolve.py
 ```
 
 The application will open in your browser.
